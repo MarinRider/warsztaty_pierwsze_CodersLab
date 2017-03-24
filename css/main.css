@@ -26,32 +26,27 @@ header {
     background-color: black;
 }
 
-}
 #left-arrow {
-  width: 10%;
-  float: left;
-  border: 1px solid black;
-}
-#chair-box {
-  width: 40%;
-  float: left;
-  background-image: url("../images/black_chair.png");
-  border: 1px solid black;
-}
-#text-box {
-  width: 40%;
-  float: left;
-  border: 1px solid black;
-}
-#right-arrow {
-  width: 10%;
-  float: left;
-  border: 1px solid black;
-}
-#menu > li > ul > li > ol {
-  width:150%;
+    width: 10%;
+    float: left;
+    border: 1px solid black;
 }
 
-#menu > li > ul > li > ol > li {
-  background-color:#CCC;
+#chair-box {
+    width: 40%;
+    float: left;
+    background-image: url("../images/black_chair.png");
+    border: 1px solid black;
+}
+
+#text-box {
+    width: 40%;
+    float: left;
+    border: 1px solid black;
+}
+
+#right-arrow {
+    width: 10%;
+    float: left;
+    border: 1px solid black;
 }
