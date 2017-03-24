@@ -39,26 +39,32 @@ nav li {
 }
 
 #left-arrow {
-    width: 10%;
-    float: left;
+    width: 40px;
+    height: 150px;
     border: 1px solid black;
+    background: black;
 }
 
 #chair-box {
-    width: 40%;
-    float: left;
-    background-image: url("../images/black_chair.png");
+    width: 300px;
+    height: 150px;
     border: 1px solid black;
 }
 
 #text-box {
-    width: 40%;
-    float: left;
+    width: 300px;
+    height: 150px;
+    float: right;
     border: 1px solid black;
 }
 
 #right-arrow {
-    width: 10%;
-    float: left;
+    width: 40px;
+    height: 150px;
     border: 1px solid black;
+}
+
+section {
+    margin: 30px;
+    display: inline-block;
 }
